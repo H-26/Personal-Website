@@ -1,1 +1,3 @@
+User-agent: *
+Disallow: /academia.html, /climate.html, /compsci.html, /wip.html
 Sitemap: https://josephhenderson.me/sitemap.xml
